@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other embedded machine developers
 - 🤔 I’m looking for help with game development
 - 💬 Ask me about machine learning
-- 📫 How to reach me: email,phone, or send a message by 🐦.
+- 📫 How to reach me: email, phone, or send a message by 🐦.
 - ⚡ Fun fact: I am making a laboratory and a jarvis. 
 
 ### Connect with me:
