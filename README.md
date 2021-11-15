@@ -3,9 +3,9 @@
 
 ## I am a Programmer, Entrepreneur, Inventor, and Explorer!
 
-- 🔭 I’m currently working on a Agile based virtual assistanct. 
+- 🔭 I’m currently working on a Programming Language called ALA. 
 - 🌱 I’m currently learning as much as I can 😍 
-- 👯 I’m looking to collaborate with other embedded machine developers
+- 👯 I’m looking to collaborate with other web3 developers
 - 🤔 I’m looking for help with game development
 - 💬 Ask me about machine learning
 - 📫 How to reach me: email, phone, or send a message by 🐦.
