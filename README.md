@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with [Agilechan](https://github.com/SageJames/Agilechan)
 - 👨‍💻 All of my projects are available at [https://github.com/SageJames](https://github.com/SageJames)
 - 💬 Ask me about **React, Vue, or CSS**
-- 📫 How to reach me **hello@alcinderlewis.com**
+- 📫 How to reach me **contact@alcinder.net**
 
 <br />
 
